@@ -1,6 +1,8 @@
 # BeyondBorders
  Global Education Intelligence Ecosystem
 
+Live : https://beyond-borders-education-atlas.vercel.app/
+
 An interactive global education atlas built with Next.js, React, Three.js, FastAPI and SQLite. The published edition includes 13,713 UNESCO UIS and Eurostat observations for 2016–2024. Its study directory includes 10 universities, 25 selected programs, six scholarships and five destination planning guides.
 
 ## Run the application
