@@ -1,0 +1,15 @@
+Destination photography
+Downloaded from Unsplash's image CDN on 2026-11-22. Each photograph was resized, colour graded and encoded in WebP for performance. The Unsplash License permits free use of photographs in websites.
+https://unsplash.com/license
+
+London — Thames and Tower Bridge
+https://images.unsplash.com/photo-1513635269975-59663e0ac1ad
+
+Berlin — Brandenburg Gate
+https://images.unsplash.com/photo-1560969184-10fe8719e047
+
+New York City — Manhattan and the Empire State Building
+https://images.unsplash.com/photo-1485871981521-5b1fd3805eee
+
+Toronto — CN Tower and Lake Ontario
+https://images.unsplash.com/photo-1517935706615-2717063c2225

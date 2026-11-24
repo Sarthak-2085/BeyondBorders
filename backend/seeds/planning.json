@@ -1,0 +1,846 @@
+{
+  "countries": [
+    {
+      "iso": "USA",
+      "name": "United States",
+      "capital": "Washington, D.C.",
+      "region": "North America",
+      "lat": 38,
+      "lon": -98,
+      "flag": "🇺🇸",
+      "visa": {
+        "name": "F-1 academic student visa",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html",
+        "requirements": "An SEVP-approved school issues Form I-20 following acceptance. Register in SEVIS, pay the required fee and follow your consulate’s application instructions.",
+        "proof": "A consular officer may ask how you will pay educational, living and travel costs. Use the budget provided by your school.",
+        "work": "Eligible on-campus employment generally has a 20-hour weekly limit while classes are in session. Off-campus employment requires separate eligibility and authorization.",
+        "post": "Eligible F-1 graduates can apply for Optional Practical Training in their field, with a school endorsement and USCIS employment authorization.",
+        "verified": "2026-11-22",
+        "sources": [
+          {
+            "label": "U.S. Department of State",
+            "url": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html"
+          },
+          {
+            "label": "8 CFR 214.2(f)(9) and (10)",
+            "url": "https://www.law.cornell.edu/cfr/text/8/214.2"
+          }
+        ]
+      },
+      "cost": {
+        "currency": "USD",
+        "tuition": 66720,
+        "housing": 14090,
+        "food": 8104,
+        "transport": null,
+        "insurance": null,
+        "other": 3846,
+        "source": "https://sfs.mit.edu/undergraduate-students/the-cost-of-attendance/coa/",
+        "period": "2026/27",
+        "note": "MIT undergraduate academic year, before aid. Other combines the $420 student life fee, $930 for books and supplies, and $2,496 in personal expenses. Add travel and any health insurance premium separately.",
+        "sources": [
+          {
+            "label": "MIT undergraduate cost of attendance",
+            "url": "https://sfs.mit.edu/undergraduate-students/the-cost-of-attendance/coa/"
+          }
+        ]
+      }
+    },
+    {
+      "iso": "GBR",
+      "name": "United Kingdom",
+      "capital": "London",
+      "region": "Europe",
+      "lat": 54,
+      "lon": -2,
+      "flag": "🇬🇧",
+      "visa": {
+        "name": "Student visa",
+        "url": "https://www.gov.uk/student-visa",
+        "requirements": "Applicants need an offer from a licensed sponsor, a Confirmation of Acceptance for Studies, and evidence that they meet the English and financial requirements where applicable.",
+        "proof": "The financial test normally includes first-year course fees plus £1,529 per month in London or £1,171 elsewhere for up to nine months. Where evidence is required, check the 28-day holding rule and exceptions.",
+        "work": "Work permission depends on the course and whether it is term time. Check the conditions attached to your immigration status.",
+        "post": "The Graduate visa generally lasts two years for applications through 31 December 2026 and 18 months from 1 January 2027. Eligible doctoral graduates can apply for three years.",
+        "verified": "2026-11-22",
+        "sources": [
+          {
+            "label": "UK Visas and Immigration",
+            "url": "https://www.gov.uk/student-visa"
+          },
+          {
+            "label": "Financial requirements",
+            "url": "https://www.gov.uk/student-visa/money"
+          },
+          {
+            "label": "Graduate visa",
+            "url": "https://www.gov.uk/graduate-visa"
+          }
+        ]
+      },
+      "cost": {
+        "currency": "GBP",
+        "tuition": 44400,
+        "housing": 9516,
+        "food": 2756,
+        "transport": 1622,
+        "insurance": 776,
+        "other": 936,
+        "source": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/management-msc",
+        "period": "2027/28 tuition · 2026 living guide",
+        "note": "UCL Management MSc. Twelve months in London at £793 monthly survey rent. UCL’s 52-week estimates cover food, transport, course materials, phone and wellbeing. Insurance uses one year of the student immigration health surcharge. Visa duration, housing and bills change the amount.",
+        "sources": [
+          {
+            "label": "UCL Management MSc fees",
+            "url": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/management-msc"
+          },
+          {
+            "label": "UCL living expenses",
+            "url": "https://www.ucl.ac.uk/study/student-finances/cost-study/how-much-does-it-cost-study-ucl"
+          },
+          {
+            "label": "UK health surcharge",
+            "url": "https://www.gov.uk/healthcare-immigration-application/how-much-pay"
+          }
+        ]
+      }
+    },
+    {
+      "iso": "DEU",
+      "name": "Germany",
+      "capital": "Berlin",
+      "region": "Europe",
+      "lat": 51,
+      "lon": 10,
+      "flag": "🇩🇪",
+      "visa": {
+        "name": "Residence permit for studying",
+        "url": "https://service.berlin.de/dienstleistung/305244/en/",
+        "requirements": "Germany’s study residence permit generally requires admission to higher education, secure living costs and adequate health insurance. Check nationality-specific entry visa requirements before travel.",
+        "proof": "The Berlin immigration authority lists €992 per month, or €11,904 for 2026, as the financial requirement for study. Accepted evidence depends on the case.",
+        "work": "The study residence permit generally permits 140 full workdays per calendar year. Check how your individual work schedule counts against this allowance.",
+        "post": "After a qualifying German degree, graduates can apply for a job-search residence permit, generally lasting up to 18 months.",
+        "verified": "2026-11-22",
+        "sources": [
+          {
+            "label": "Study residence permit",
+            "url": "https://service.berlin.de/dienstleistung/305244/en/"
+          },
+          {
+            "label": "Post-study job-search permit",
+            "url": "https://service.berlin.de/dienstleistung/324661/en/"
+          }
+        ]
+      },
+      "cost": {
+        "currency": "EUR",
+        "tuition": 12000,
+        "housing": 4920,
+        "food": 2376,
+        "transport": 1068,
+        "insurance": 1200,
+        "other": 2282,
+        "source": "https://www.tum.de/en/studies/degree-programs/detail/informatics-master-of-science-msc",
+        "period": "2026 TUM fee schedule · 2023 living survey",
+        "note": "Two semesters of TUM Informatics MSc at €6,000 each for fee-paying international students. Living costs annualize DAAD’s national monthly survey categories. Other includes €97 per semester plus recreation, clothing, materials and communications. Munich housing can exceed the national figure.",
+        "sources": [
+          {
+            "label": "TUM MSc Informatics fees",
+            "url": "https://www.tum.de/en/studies/degree-programs/detail/informatics-master-of-science-msc"
+          },
+          {
+            "label": "DAAD and DZHW living expenses",
+            "url": "https://www.daad.de/en/studying-in-germany/living-in-germany/finances/"
+          }
+        ]
+      }
+    },
+    {
+      "iso": "CAN",
+      "name": "Canada",
+      "capital": "Ottawa",
+      "region": "North America",
+      "lat": 57,
+      "lon": -106,
+      "flag": "🇨🇦",
+      "visa": {
+        "name": "Study permit",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html",
+        "requirements": "Most international students need a study permit and a letter of acceptance from a designated learning institution. Check whether a provincial or territorial attestation letter is required.",
+        "proof": "For applications from 1 September 2026 outside Quebec, one applicant must show CAD 23,448 in first-year living funds plus tuition and transportation. Family size and Quebec rules change the requirement.",
+        "work": "Eligible students can work off campus up to 24 hours per week during regular terms and may work more during scheduled breaks if all conditions continue to be met.",
+        "post": "Graduates of eligible programs at designated institutions may qualify for a post-graduation work permit. Duration and eligibility depend on the program, passport and applicable requirements.",
+        "verified": "2026-11-22",
+        "sources": [
+          {
+            "label": "IRCC study permit",
+            "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html"
+          },
+          {
+            "label": "Proof of funds",
+            "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html"
+          },
+          {
+            "label": "Work off campus",
+            "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html"
+          },
+          {
+            "label": "Post-graduation work permit",
+            "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html"
+          }
+        ]
+      },
+      "cost": {
+        "currency": "CAD",
+        "tuition": 53082,
+        "housing": null,
+        "food": null,
+        "transport": null,
+        "insurance": 900,
+        "other": null,
+        "source": "https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate",
+        "period": "2026/27",
+        "note": "UBC Vancouver Science BSc scenario: 30 credits at CAD 1,769.40. Insurance uses 12 months of BC’s CAD 75 international student health fee after MSP enrollment. Enter rent, meals, travel, other student fees and any extra health plans from your own quotes.",
+        "sources": [
+          {
+            "label": "UBC Vancouver undergraduate tuition",
+            "url": "https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate"
+          },
+          {
+            "label": "UBC international health fee",
+            "url": "https://students.ubc.ca/health/health-insurance/health-insurance-international/medical-services-plan-msp-international/"
+          }
+        ]
+      }
+    },
+    {
+      "iso": "AUS",
+      "name": "Australia",
+      "capital": "Canberra",
+      "region": "Oceania",
+      "lat": -25,
+      "lon": 134,
+      "flag": "🇦🇺",
+      "visa": {
+        "name": "Student visa, subclass 500",
+        "url": "https://www.studyaustralia.gov.au/en/plan-your-move/your-guide-to-visas/student-visa-subclass-500",
+        "requirements": "Applicants normally submit a Confirmation of Enrolment, satisfy the Genuine Student requirement and maintain Overseas Student Health Cover unless exempt.",
+        "proof": "Applicants may need to show funds for travel, tuition and living costs. Check the Home Affairs document checklist for the relevant evidence.",
+        "work": "Most students can work up to 48 hours per fortnight while their course is in session. Different rules apply during breaks and to eligible research master’s or doctoral students.",
+        "post": "Eligible graduates can apply for a Temporary Graduate visa, subclass 485. Eligibility and duration depend on the stream and personal circumstances.",
+        "verified": "2026-11-22",
+        "sources": [
+          {
+            "label": "Australian Government student visa",
+            "url": "https://www.studyaustralia.gov.au/en/plan-your-move/your-guide-to-visas/student-visa-subclass-500"
+          },
+          {
+            "label": "Application documents",
+            "url": "https://www.studyaustralia.gov.au/en/plan-your-move/visa-application-process"
+          },
+          {
+            "label": "Graduate visa options",
+            "url": "https://www.studyaustralia.gov.au/en/plan-your-move/your-guide-to-visas"
+          }
+        ]
+      },
+      "cost": {
+        "currency": "AUD",
+        "tuition": 68480,
+        "housing": 24700,
+        "food": null,
+        "transport": null,
+        "insurance": null,
+        "other": null,
+        "source": "https://study.unimelb.edu.au/__data/assets/pdf_file/0034/462949/2027-International-Fee-Tables.pdf",
+        "period": "2027 tuition · rent guide accessed November 2026",
+        "note": "University of Melbourne Master of Computer Science indicative first-year fee and a one-bedroom metropolitan flat at AUD 475 per week for 52 weeks. The rent guide does not state a survey year. Add other costs, including an individual OSHC quote.",
+        "sources": [
+          {
+            "label": "University of Melbourne international fee table",
+            "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0034/462949/2027-International-Fee-Tables.pdf"
+          },
+          {
+            "label": "Melbourne rent guide",
+            "url": "https://study.unimelb.edu.au/student-life/cost-of-living"
+          }
+        ]
+      }
+    }
+  ],
+  "universities": [
+    {
+      "id": "mit",
+      "name": "Massachusetts Institute of Technology",
+      "country": "USA",
+      "city": "Cambridge",
+      "url": "https://www.mit.edu/",
+      "programs": [
+        {
+          "name": "Computer Science and Engineering, SB",
+          "field": "Computer Science",
+          "level": "Bachelor",
+          "url": "https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/"
+        },
+        {
+          "name": "Physics, SB",
+          "field": "Natural Sciences",
+          "level": "Bachelor",
+          "url": "https://catalog.mit.edu/degree-charts/physics-course-8/"
+        }
+      ],
+      "tuition": "USD 66,720 undergraduate tuition for 2026/27 before financial aid.",
+      "admissions": "International first-year applicants follow MIT’s undergraduate application process. Review school records, testing and English-language guidance for your school system.",
+      "source": "https://sfs.mit.edu/undergraduate-students/the-cost-of-attendance/coa/",
+      "verified": "2026-11-22",
+      "sources": [
+        {
+          "label": "MIT tuition",
+          "url": "https://sfs.mit.edu/undergraduate-students/the-cost-of-attendance/coa/"
+        },
+        {
+          "label": "International undergraduate admissions",
+          "url": "https://mitadmissions.org/apply/firstyear/international/"
+        }
+      ]
+    },
+    {
+      "id": "ucl",
+      "name": "University College London",
+      "country": "GBR",
+      "city": "London",
+      "url": "https://www.ucl.ac.uk/",
+      "programs": [
+        {
+          "name": "Computer Science BSc",
+          "field": "Computer Science",
+          "level": "Bachelor",
+          "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/computer-science-bsc"
+        },
+        {
+          "name": "Management MSc",
+          "field": "Business and Management",
+          "level": "Master",
+          "url": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/management-msc"
+        },
+        {
+          "name": "Law LLB",
+          "field": "Law",
+          "level": "Bachelor",
+          "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/law-llb"
+        },
+        {
+          "name": "Medicine MBBS BSc",
+          "field": "Medicine and Healthcare",
+          "level": "Bachelor",
+          "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/medicine-mbbs-bsc"
+        }
+      ],
+      "tuition": "GBP 44,400 for the Management MSc in 2027/28. Other courses publish separate fees.",
+      "admissions": "Management MSc requires at least a UK upper second-class bachelor’s degree or an overseas equivalent. Consult each course for its own language and subject requirements.",
+      "source": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/management-msc",
+      "verified": "2026-11-22",
+      "sources": [
+        {
+          "label": "Management MSc admissions and fees",
+          "url": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/management-msc"
+        }
+      ]
+    },
+    {
+      "id": "tum",
+      "name": "Technical University of Munich",
+      "country": "DEU",
+      "city": "Munich / Garching",
+      "url": "https://www.tum.de/en/",
+      "programs": [
+        {
+          "name": "Informatics MSc",
+          "field": "Computer Science",
+          "level": "Master",
+          "url": "https://www.tum.de/en/studies/degree-programs/detail/informatics-master-of-science-msc"
+        },
+        {
+          "name": "Mechanical Engineering MSc",
+          "field": "Engineering",
+          "level": "Master",
+          "url": "https://www.tum.de/en/studies/degree-programs/detail/mechanical-engineering-master-of-science-msc"
+        }
+      ],
+      "tuition": "EUR 6,000 per semester for fee-paying international students from third countries on these two MSc programs, plus the semester fee. Exemptions and waivers may apply.",
+      "admissions": "Applicants need a recognized undergraduate degree, relevant preparation and a successful aptitude assessment. Language evidence depends on the program.",
+      "source": "https://www.tum.de/en/studies/degree-programs/detail/informatics-master-of-science-msc",
+      "verified": "2026-11-22",
+      "sources": [
+        {
+          "label": "Informatics MSc requirements",
+          "url": "https://www.tum.de/en/studies/degree-programs/detail/informatics-master-of-science-msc"
+        },
+        {
+          "label": "Mechanical Engineering MSc requirements",
+          "url": "https://www.tum.de/en/studies/degree-programs/detail/mechanical-engineering-master-of-science-msc"
+        }
+      ]
+    },
+    {
+      "id": "ubc",
+      "name": "University of British Columbia",
+      "country": "CAN",
+      "city": "Vancouver",
+      "url": "https://www.ubc.ca/",
+      "programs": [
+        {
+          "name": "Computer Science BSc",
+          "field": "Computer Science",
+          "level": "Bachelor",
+          "url": "https://you.ubc.ca/programs/computer-science-vancouver-bsc/"
+        },
+        {
+          "name": "History BA",
+          "field": "Arts and Humanities",
+          "level": "Bachelor",
+          "url": "https://you.ubc.ca/programs/history-vancouver/"
+        },
+        {
+          "name": "Political Science BA",
+          "field": "Social Sciences",
+          "level": "Bachelor",
+          "url": "https://you.ubc.ca/programs/political-science-vancouver/"
+        }
+      ],
+      "tuition": "CAD 1,769.40 per Science credit for new international students in 2026/27. Tuition depends on degree, entry cohort and course load.",
+      "admissions": "Applicants must meet general and degree-specific requirements for their secondary school curriculum. Vancouver Science students apply for a specialization after their initial admission.",
+      "source": "https://you.ubc.ca/programs/computer-science-vancouver-bsc/",
+      "verified": "2026-11-22",
+      "sources": [
+        {
+          "label": "Vancouver Science applicant information",
+          "url": "https://you.ubc.ca/programs/computer-science-vancouver-bsc/"
+        },
+        {
+          "label": "UBC tuition schedule",
+          "url": "https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate"
+        }
+      ]
+    },
+    {
+      "id": "unimelb",
+      "name": "University of Melbourne",
+      "country": "AUS",
+      "city": "Melbourne",
+      "url": "https://www.unimelb.edu.au/",
+      "programs": [
+        {
+          "name": "Master of Computer Science",
+          "field": "Computer Science",
+          "level": "Master",
+          "url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-computer-science/"
+        },
+        {
+          "name": "Bachelor of Commerce",
+          "field": "Business and Management",
+          "level": "Bachelor",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/"
+        },
+        {
+          "name": "Doctor of Philosophy – Engineering and IT",
+          "field": "Engineering",
+          "level": "Doctorate",
+          "url": "https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-engineering-and-it/"
+        }
+      ],
+      "tuition": "AUD 68,480 indicative annual international fee for the Master of Computer Science in 2027. Actual fees depend on enrolled subjects.",
+      "admissions": "The Master of Computer Science requires a relevant bachelor’s degree, a 75% weighted average or equivalent, university-level mathematics or statistics, and English proficiency. Consult the full entry criteria.",
+      "source": "https://study.unimelb.edu.au/find/courses/graduate/master-of-computer-science/",
+      "verified": "2026-11-22",
+      "sources": [
+        {
+          "label": "MSc entry requirements",
+          "url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-computer-science/entry-requirements/"
+        },
+        {
+          "label": "2027 international fee table",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0034/462949/2027-International-Fee-Tables.pdf"
+        }
+      ]
+    },
+    {
+      "id": "princeton",
+      "name": "Princeton University",
+      "country": "USA",
+      "city": "Princeton",
+      "url": "https://www.princeton.edu/",
+      "programs": [
+        {
+          "name": "Computer Science AB / BSE",
+          "field": "Computer Science",
+          "level": "Bachelor",
+          "url": "https://www.princeton.edu/academics/area-of-study/computer-science"
+        },
+        {
+          "name": "Politics AB",
+          "field": "Social Sciences",
+          "level": "Bachelor",
+          "url": "https://www.princeton.edu/academics/area-of-study/politics"
+        },
+        {
+          "name": "Computer Science PhD",
+          "field": "Computer Science",
+          "level": "Doctorate",
+          "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/computer-science"
+        }
+      ],
+      "tuition": "USD 68,140 undergraduate tuition for 2026/27 before aid. Graduate study has a separate fee and funding structure.",
+      "admissions": "Computer Science PhD applicants identify up to two research areas. The graduate school publishes the program-specific documents and deadlines for each intake.",
+      "source": "https://www.princeton.edu/academics/area-of-study/computer-science",
+      "verified": "2026-11-22",
+      "sources": [
+        {
+          "label": "Undergraduate budget",
+          "url": "https://finaid.princeton.edu/how-aid-works/student-budget"
+        },
+        {
+          "label": "Computer Science graduate admissions",
+          "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/computer-science"
+        }
+      ]
+    },
+    {
+      "id": "oxford",
+      "name": "University of Oxford",
+      "country": "GBR",
+      "city": "Oxford",
+      "url": "https://www.ox.ac.uk/",
+      "programs": [
+        {
+          "name": "History BA",
+          "field": "Arts and Humanities",
+          "level": "Bachelor",
+          "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history"
+        },
+        {
+          "name": "Law (Jurisprudence) BA",
+          "field": "Law",
+          "level": "Bachelor",
+          "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/law-jurisprudence"
+        }
+      ],
+      "tuition": "GBP 46,210 per year at the overseas fee rate for History entrants in 2027. Check each degree for its own fee.",
+      "admissions": "History lists AAA at A-level, or an equivalent qualification, and requires submitted written work. See the subject-specific instructions.",
+      "source": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history",
+      "verified": "2026-11-22",
+      "sources": [
+        {
+          "label": "History fees and admissions",
+          "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history"
+        },
+        {
+          "label": "Law admissions",
+          "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/law-jurisprudence"
+        }
+      ]
+    },
+    {
+      "id": "heidelberg",
+      "name": "Heidelberg University",
+      "country": "DEU",
+      "city": "Heidelberg",
+      "url": "https://www.uni-heidelberg.de/en",
+      "programs": [
+        {
+          "name": "Computer Science BSc",
+          "field": "Computer Science",
+          "level": "Bachelor",
+          "url": "https://www.uni-heidelberg.de/en/study/all-subjects/computer-science/computer-science-bachelor-100"
+        },
+        {
+          "name": "Biosciences BSc",
+          "field": "Natural Sciences",
+          "level": "Bachelor",
+          "url": "https://www.uni-heidelberg.de/en/study/all-subjects/biosciences/biosciences-bachelor-100"
+        }
+      ],
+      "tuition": "EUR 1,500 per semester for many non-EU/EEA students with a foreign university entrance qualification, plus separate semester charges. Exemptions apply.",
+      "admissions": "Computer Science begins in the winter semester, with instruction in German and partly English. Use the university’s admissions guide for your qualifications and language evidence.",
+      "source": "https://www.uni-heidelberg.de/en/study/all-subjects/computer-science/computer-science-bachelor-100",
+      "verified": "2026-11-22",
+      "sources": [
+        {
+          "label": "International tuition",
+          "url": "https://www.uni-heidelberg.de/en/study/management-of-studies/semester-fees/tuition-fees-for-international-students"
+        },
+        {
+          "label": "Computer Science requirements",
+          "url": "https://www.uni-heidelberg.de/en/study/all-subjects/computer-science/computer-science-bachelor-100"
+        }
+      ]
+    },
+    {
+      "id": "waterloo",
+      "name": "University of Waterloo",
+      "country": "CAN",
+      "city": "Waterloo",
+      "url": "https://uwaterloo.ca/",
+      "programs": [
+        {
+          "name": "Computer Science BCS",
+          "field": "Computer Science",
+          "level": "Bachelor",
+          "url": "https://uwaterloo.ca/future-students/programs/computer-science"
+        },
+        {
+          "name": "Mechanical Engineering BASc",
+          "field": "Engineering",
+          "level": "Bachelor",
+          "url": "https://uwaterloo.ca/future-students/programs/mechanical-engineering"
+        }
+      ],
+      "tuition": "CAD 73,000 for Computer Science and CAD 75,000 for Engineering in estimated first-year international tuition and incidental fees for two terms, September 2026 entry.",
+      "admissions": "Computer Science has mathematics and English requirements. Qualification equivalents, required forms and deadlines are listed by curriculum on the admissions page.",
+      "source": "https://uwaterloo.ca/future-students/programs/computer-science",
+      "verified": "2026-11-22",
+      "sources": [
+        {
+          "label": "Waterloo first-year expenses",
+          "url": "https://uwaterloo.ca/future-students/financing/tuition"
+        },
+        {
+          "label": "Computer Science admissions",
+          "url": "https://uwaterloo.ca/future-students/programs/computer-science"
+        }
+      ]
+    },
+    {
+      "id": "monash",
+      "name": "Monash University",
+      "country": "AUS",
+      "city": "Melbourne",
+      "url": "https://www.monash.edu/",
+      "programs": [
+        {
+          "name": "Bachelor of Computer Science",
+          "field": "Computer Science",
+          "level": "Bachelor",
+          "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true"
+        },
+        {
+          "name": "Bachelor of Laws (Honours)",
+          "field": "Law",
+          "level": "Bachelor",
+          "url": "https://www.monash.edu/study/courses/find-a-course/laws-l3001"
+        }
+      ],
+      "tuition": "AUD 58,940 per 48-credit-point year on the international Bachelor of Computer Science fee schedule for 2027.",
+      "admissions": "Computer Science applicants must meet mathematics and English requirements. Use Monash’s qualification lookup to find the recognized equivalents for your curriculum.",
+      "source": "https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true",
+      "verified": "2026-11-22",
+      "sources": [
+        {
+          "label": "International Computer Science course and fees",
+          "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true"
+        },
+        {
+          "label": "Bachelor of Laws (Honours)",
+          "url": "https://www.monash.edu/study/courses/find-a-course/laws-l3001"
+        }
+      ]
+    }
+  ],
+  "scholarships": [
+    {
+      "id": "mit-need",
+      "name": "MIT Scholarship",
+      "country": "USA",
+      "level": "Bachelor",
+      "levels": [
+        "Bachelor"
+      ],
+      "fields": [
+        "All"
+      ],
+      "nationalities": [
+        "*"
+      ],
+      "excludedNationalities": [],
+      "funding": "Need-based institutional grant. Amount varies with demonstrated financial need.",
+      "amountMin": null,
+      "amountMax": null,
+      "currency": null,
+      "deadline": "Early Action and Regular Action use different financial aid deadlines.",
+      "deadlineDate": null,
+      "url": "https://sfs.mit.edu/undergraduate-students/types-of-aid/mit-scholarships-grants/",
+      "note": "For MIT undergraduate students who apply for need-based aid. Submit the required financial aid documents.",
+      "verified": "2026-11-22",
+      "sources": [
+        {
+          "label": "MIT financial aid deadlines",
+          "url": "https://sfs.mit.edu/undergraduate-students/apply-for-aid/deadlines-process/"
+        }
+      ]
+    },
+    {
+      "id": "ucl-global",
+      "name": "UCL Global Master’s Scholarship",
+      "country": "GBR",
+      "level": "Master",
+      "levels": [
+        "Master"
+      ],
+      "fields": [
+        "All"
+      ],
+      "nationalities": [
+        "*"
+      ],
+      "excludedNationalities": [
+        "GBR"
+      ],
+      "funding": "GBP 15,000 total for the 2026/27 award.",
+      "amountMin": 15000,
+      "amountMax": 15000,
+      "currency": "GBP",
+      "deadline": "7 May 2026 · closed",
+      "deadlineDate": "2026-05-07",
+      "url": "https://www.ucl.ac.uk/scholarships/ucl-global-masters-scholarship",
+      "note": "For lower-income overseas-fee applicants to full-time, in-person taught master’s programs. Check the official page for the next cycle.",
+      "verified": "2026-11-22",
+      "sources": []
+    },
+    {
+      "id": "chevening-india",
+      "name": "Chevening Scholarship in India",
+      "country": "GBR",
+      "level": "Master",
+      "levels": [
+        "Master"
+      ],
+      "fields": [
+        "All"
+      ],
+      "nationalities": [
+        "IND"
+      ],
+      "excludedNationalities": [],
+      "funding": "Fully funded one-year taught master’s scholarship, subject to award terms.",
+      "amountMin": null,
+      "amountMax": null,
+      "currency": null,
+      "deadline": "2027/28 cycle closed in October 2026.",
+      "deadlineDate": null,
+      "url": "https://www.chevening.org/scholarship/india/",
+      "note": "For eligible Indian citizens. Work experience, eligible courses and a return-home commitment form part of the application criteria.",
+      "verified": "2026-11-22",
+      "sources": [
+        {
+          "label": "Chevening scholarships",
+          "url": "https://www.chevening.org/scholarships/"
+        },
+        {
+          "label": "Cycle timeline",
+          "url": "https://www.chevening.org/scholarships/application-timeline/"
+        }
+      ]
+    },
+    {
+      "id": "tum-intl",
+      "name": "TUM Scholarship for International Students",
+      "country": "DEU",
+      "level": "Bachelor",
+      "levels": [
+        "Bachelor",
+        "Master"
+      ],
+      "fields": [
+        "All"
+      ],
+      "nationalities": [
+        "*"
+      ],
+      "excludedNationalities": [],
+      "funding": "EUR 500–1,800 for one semester.",
+      "amountMin": 500,
+      "amountMax": 1800,
+      "currency": "EUR",
+      "deadline": "Check the semester-specific opening and closing dates on the award page.",
+      "deadlineDate": null,
+      "url": "https://www.tum.de/en/studies/fees-and-financial-aid/scholarships/tum-scholarships/scholarship-for-international-students-of-tum",
+      "note": "For enrolled students with financial need and good performance who meet study-semester and nationality-related BAföG requirements. Entry-stage applicants generally cannot apply.",
+      "verified": "2026-11-22",
+      "sources": []
+    },
+    {
+      "id": "ubc-imes",
+      "name": "UBC International Major Entrance Scholarship",
+      "country": "CAN",
+      "level": "Bachelor",
+      "levels": [
+        "Bachelor"
+      ],
+      "fields": [
+        "All"
+      ],
+      "nationalities": [
+        "*"
+      ],
+      "excludedNationalities": [
+        "CAN"
+      ],
+      "funding": "CAD 10,000–25,000 per year for 2027/28. Renewable for up to three further years.",
+      "amountMin": 10000,
+      "amountMax": 25000,
+      "currency": "CAD",
+      "deadline": "15 January 2027 · undergraduate admissions deadline",
+      "deadlineDate": "2027-01-15",
+      "url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-entrance-scholarships/",
+      "note": "Automatic consideration for qualifying new international students entering directly from secondary school on a Canadian study permit. Academic achievement and extracurricular involvement are assessed.",
+      "verified": "2026-11-22",
+      "sources": [
+        {
+          "label": "UBC admissions dates",
+          "url": "https://you.ubc.ca/applying-ubc/dates-deadlines/"
+        }
+      ]
+    },
+    {
+      "id": "melb-grad",
+      "name": "Melbourne Graduate Research Scholarships",
+      "country": "AUS",
+      "level": "Doctorate",
+      "levels": [
+        "Doctorate",
+        "Master"
+      ],
+      "fields": [
+        "All"
+      ],
+      "nationalities": [
+        "*"
+      ],
+      "excludedNationalities": [],
+      "funding": "Competitive stipend and fee-offset awards include AUD 41,100 per year at the 2027 full-time rate.",
+      "amountMin": 41100,
+      "amountMax": 41100,
+      "currency": "AUD",
+      "deadline": "New applicants must apply by their research course closing date.",
+      "deadlineDate": null,
+      "url": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships",
+      "note": "For eligible research master’s and doctoral candidates. Scholarship type, research potential and study duration determine the award.",
+      "verified": "2026-11-22",
+      "sources": []
+    }
+  ],
+  "exchange": {
+    "base": "EUR",
+    "date": "2026-11-20",
+    "rates": {
+      "EUR": 1,
+      "AUD": 1.6487,
+      "CAD": 1.5723,
+      "GBP": 0.83735,
+      "INR": 101.85,
+      "USD": 1.099
+    },
+    "source": "https://data-api.ecb.europa.eu/service/data/EXR/D.USD+CAD+AUD+INR+GBP.EUR.SP00.A?startPeriod=2026-11-13&endPeriod=2026-11-20&format=csvdata",
+    "publisher": "European Central Bank",
+    "note": "Currency units per EUR. Indicative reference rates exclude bank spreads and transaction fees."
+  }
+}

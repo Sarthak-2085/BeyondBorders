@@ -1,0 +1,129 @@
+[
+  {
+    "id": "uis-mobility",
+    "publisher": "UNESCO Institute for Statistics",
+    "retrieved": "2026-11-22",
+    "release": "20261110-392b682a",
+    "period": "2016–2024",
+    "dimensions": [
+      "origin",
+      "destination",
+      "reference year"
+    ],
+    "coverage": "Published national totals worldwide, one published world total, and selected bilateral corridors.",
+    "name": "Internationally mobile tertiary students · inbound and bilateral",
+    "url": "https://api.uis.unesco.org/api/public/data/indicators?indicator=26637&geoUnit=UIS%3A+World&start=2016&end=2024&version=20261110-392b682a&indicatorMetadata=true",
+    "definition": "Students who crossed an international border to study. Origin follows prior education, with residence or citizenship used where necessary. Counts describe enrolment in each reference year. The worldwide value is published by UIS. Some published values contain fractions and are rounded to the nearest student. Available bilateral corridors are a subset. Missing observations are omitted.",
+    "indicator_codes": {
+      "inbound_and_world": "26637",
+      "bilateral_by_origin": {
+        "GHA": "26442",
+        "KEN": "26445",
+        "MAR": "26454",
+        "NGA": "26458",
+        "CAN": "26483",
+        "MEX": "26494",
+        "USA": "26503",
+        "BRA": "26508",
+        "BGD": "26524",
+        "CHN": "26528",
+        "IND": "26533",
+        "IDN": "26534",
+        "JPN": "26538",
+        "KOR": "26542",
+        "MYS": "26548",
+        "NPL": "26552",
+        "PAK": "26554",
+        "TUR": "26564",
+        "VNM": "26568",
+        "FRA": "26584",
+        "DEU": "26585",
+        "IRL": "26590",
+        "ITA": "26591",
+        "NLD": "26599",
+        "ESP": "26608",
+        "GBR": "26613",
+        "AUS": "26617"
+      }
+    },
+    "api": "https://api.uis.unesco.org/api/public/data/indicators"
+  },
+  {
+    "publisher": "UNESCO Institute for Statistics",
+    "retrieved": "2026-11-22",
+    "release": "20261110-392b682a",
+    "period": "2016–2024",
+    "dimensions": [
+      "origin",
+      "destination",
+      "reference year"
+    ],
+    "coverage": "Countries and territories with a published outbound estimate.",
+    "id": "uis-outbound",
+    "name": "Outbound internationally mobile tertiary students · UIS estimates",
+    "url": "https://api.uis.unesco.org/api/public/data/indicators?indicator=OE.5T8.40510&geoUnit=IND&start=2016&end=2024&version=20261110-392b682a&indicatorMetadata=true",
+    "definition": "UIS estimates of tertiary students from the reporting country studying abroad in all destinations. Published fractional values are rounded to the nearest student. These are publisher estimates. No missing observation is filled.",
+    "indicator_codes": {
+      "outbound": "OE.5T8.40510"
+    },
+    "api": "https://api.uis.unesco.org/api/public/data/indicators"
+  },
+  {
+    "id": "eurostat-fields",
+    "publisher": "Eurostat",
+    "name": "Mobile students from abroad enrolled by education level, sex and field of education",
+    "url": "https://doi.org/10.2908/EDUC_UOE_MOBS01",
+    "api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/educ_uoe_mobs01",
+    "retrieved": "2026-11-22",
+    "period": "2016–2024",
+    "dimensions": [
+      "destination",
+      "reference year",
+      "ISCED level",
+      "ISCED-F field"
+    ],
+    "coverage": "Selected European destinations. All origins and sexes combined.",
+    "definition": "Enrolled mobile students from abroad. Atlas disciplines group published ISCED-F categories: Computer Science uses ICT, Engineering uses engineering and engineering trades, and Medicine and Healthcare uses health. Counts refer to the published categories, which can include adjacent subjects. The all-level total covers ISCED 5–8. Degree-specific rows are disaggregations of that total. The selected fields do not cover the entire curriculum. Publisher estimates, provisional values, and breaks in series can occur; consult the linked dataset flags before comparison.",
+    "field_mapping": {
+      "Computer Science": {
+        "code": "F06",
+        "published": "Information and communication technologies"
+      },
+      "Business and Management": {
+        "code": "F041",
+        "published": "Business and administration"
+      },
+      "Engineering": {
+        "code": "F071",
+        "published": "Engineering and engineering trades"
+      },
+      "Medicine and Healthcare": {
+        "code": "F091",
+        "published": "Health"
+      },
+      "Social Sciences": {
+        "code": "F03",
+        "published": "Social sciences, journalism and information"
+      },
+      "Arts and Humanities": {
+        "code": "F02",
+        "published": "Arts and humanities"
+      },
+      "Natural Sciences": {
+        "code": "F05",
+        "published": "Natural sciences, mathematics and statistics"
+      },
+      "Law": {
+        "code": "F042",
+        "published": "Law"
+      }
+    },
+    "level_mapping": {
+      "ED5-8": "All",
+      "ED5": "Short-cycle",
+      "ED6": "Bachelor's",
+      "ED7": "Master's",
+      "ED8": "Doctorate"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+Beyond Borders atlas cartography
+
+earth-atlas.webp
+Original editorial map composition using Natural Earth Cross-blended Hypsometric Tints 1:50m with shaded relief and water, Natural Earth Admin 0 Countries 1:50m boundaries, and GEBCO 2025 relief. The cartography uses its own colour palette, graticule, hillshading and boundary styling.
+Natural Earth vector and raster data are public domain.
+https://www.naturalearthdata.com/about/terms-of-use/
+https://naturalearth.s3.amazonaws.com/50m_raster/HYP_50M_SR_W.zip
+https://github.com/nvkelso/natural-earth-vector
+
+earth-height.webp
+Relief of land and seabed. GEBCO Bathymetric Compilation Group 2025, GEBCO 2025 Grid, https://doi.org/10.5285/37c52e96-24ea-67ce-e063-7086abc05f29.
+Downsampled 10 arc minute pixel-registered raster provided by the Generic Mapping Tools (GMT) project, colour-scaled and resampled for this display. The GEBCO Grid is in the public domain and must not be used for navigation.
+https://www.gebco.net/data_and_products/gridded_bathymetry_data/
+https://www.generic-mapping-tools.org/remote-datasets/earth-gebco.html
+https://oceania.generic-mapping-tools.org/server/earth/earth_gebco/earth_gebco_10m_p.grd
+
+countries.geojson
+Natural Earth Admin 0 Countries 1:110m, geographic coordinates with selected attributes and three decimal place precision. National boundaries are Natural Earth's cartographic representation.
+https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson
+
+Source assets retrieved 2026-11-22.
